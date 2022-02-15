@@ -1,0 +1,14 @@
+div {
+    background:#ccc;
+    width:100%;
+}
+img {
+    height:;
+    width:300px;
+    margin:auto;
+    display:block;
+    border-radius: 10px;
+    /*box-shadow: 5px 5px 0px #424242; */
+    padding:10px;
+    border:1px solid #000;
+}
